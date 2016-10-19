@@ -5,7 +5,7 @@ int Partition(int r[],int first,int last)
 {
  int i = first;
  int j = last;
- while(i<j)
+ while(i<   j)
  {
      while(i<j&&r[i]<=r[j])
         j--;
