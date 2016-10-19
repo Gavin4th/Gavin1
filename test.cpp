@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h> //用到了time函数
+#include <time.h> //用到了time函数，我做了个修改
 int Partition(int r[],int first,int last)
 {
  int i = first;
